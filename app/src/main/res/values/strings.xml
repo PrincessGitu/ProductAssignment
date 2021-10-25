@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProductAssignment</string>
+    <string name="str_no_record">No record found</string>
+    <string name="rs">\u20B9</string>
+    <string name="qty">Qty</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
